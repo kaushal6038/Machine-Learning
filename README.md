@@ -1,4 +1,4 @@
-# Machine-Learning
+# Digit Recognition
 
 Data-set Link:
 
